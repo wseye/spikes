@@ -1,0 +1,9 @@
+D:\Development\git\autofixture\src\kata\Calculator.UnitTests\bin\Debug\Calculator.UnitTests.dll
+D:\Development\git\autofixture\src\kata\Calculator.UnitTests\bin\Debug\Calculator.UnitTests.pdb
+D:\Development\git\autofixture\src\kata\Calculator.UnitTests\bin\Debug\Calculator.dll
+D:\Development\git\autofixture\src\kata\Calculator.UnitTests\bin\Debug\nunit.framework.dll
+D:\Development\git\autofixture\src\kata\Calculator.UnitTests\bin\Debug\Calculator.pdb
+D:\Development\git\autofixture\src\kata\Calculator.UnitTests\bin\Debug\nunit.framework.xml
+D:\Development\git\autofixture\src\kata\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.csprojResolveAssemblyReference.cache
+D:\Development\git\autofixture\src\kata\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.dll
+D:\Development\git\autofixture\src\kata\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.pdb

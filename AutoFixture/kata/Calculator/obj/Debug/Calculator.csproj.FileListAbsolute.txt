@@ -1,0 +1,5 @@
+D:\Development\git\autofixture\src\kata\Calculator\bin\Debug\Calculator.dll
+D:\Development\git\autofixture\src\kata\Calculator\bin\Debug\Calculator.pdb
+D:\Development\git\autofixture\src\kata\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Development\git\autofixture\src\kata\Calculator\obj\Debug\Calculator.dll
+D:\Development\git\autofixture\src\kata\Calculator\obj\Debug\Calculator.pdb
