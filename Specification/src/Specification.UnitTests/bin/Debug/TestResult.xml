@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\_data\development\VS2008\_demos\Specification\src\Specification.UnitTests\bin\Debug\Specification.UnitTests.dll" total="4" failures="0" not-run="0" date="2008-12-11" time="09:55:16">
+  <environment nunit-version="2.4.7.0" clr-version="2.0.50727.3053" os-version="Microsoft Windows NT 6.0.6001 Service Pack 1" platform="Win32NT" cwd="C:\Program Files\NUnit 2.4.7\bin" machine-name="WS001" user="Wouter" user-domain="WS001" />
+  <culture-info current-culture="nl-BE" current-uiculture="en-US" />
+  <test-suite name="C:\_data\development\VS2008\_demos\Specification\src\Specification.UnitTests\bin\Debug\Specification.UnitTests.dll" success="True" time="0.064" asserts="0">
+    <results>
+      <test-suite name="Specification" success="True" time="0.061" asserts="0">
+        <results>
+          <test-suite name="UnitTests" success="True" time="0.059" asserts="0">
+            <results>
+              <test-suite name="OrSpecificationExtensionTest" success="True" time="0.050" asserts="0">
+                <results>
+                  <test-case name="Specification.UnitTests.OrSpecificationExtensionTest.ShouldBeSatisfiedWhenLeftAndRightIsSatisfied" executed="True" success="True" time="0.032" asserts="1" />
+                  <test-case name="Specification.UnitTests.OrSpecificationExtensionTest.ShouldBeSatisfiedWhenOnlyLeftIsSatisfied" executed="True" success="True" time="0.004" asserts="1" />
+                  <test-case name="Specification.UnitTests.OrSpecificationExtensionTest.ShouldBeSatisfiedWhenOnlyRightIsSatisfied" executed="True" success="True" time="0.001" asserts="1" />
+                  <test-case name="Specification.UnitTests.OrSpecificationExtensionTest.ShouldNotBeStatisfiedWhenLeftAndRightIsNotSatisfied" executed="True" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

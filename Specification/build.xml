@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MSBuildCommunityTasks\MSBuild.Community.Tasks.Targets"/>
+
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <ProjectToBuild>src\Specification.sln</ProjectToBuild>
+  </PropertyGroup>
+
+  <Target Name="Print">
+    <Message Text="$(ProjectToBuild)" />
+  </Target>
+
+  <Target Name="RebuildSolution" DependsOnTargets="Print">
+    <MSBuild Projects="$(ProjectToBuild)"
+             Targets="Rebuild"
+             Properties="Configuration=$(Configuration);Platform=Any CPU" />
+  </Target>
+
+  <Target Name="Tests" DependsOnTargets="RebuildSolution">
+    <CreateItem Include="src\Specification.UnitTests\bin\$(Configuration)\Specification.UnitTests.dll">
+      <Output TaskParameter="Include" ItemName="TestAssembly" />
+    </CreateItem>
+    <NUnit Assemblies="@(TestAssembly)" ContinueOnError="false" />
+    <Message Text="Tests ran successfully!"></Message>
+  </Target>
+
+</Project>

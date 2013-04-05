@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="b91e5f8e-4780-4095-80e2-f50805956f30" Timestamp="633529644480000000" XmlDocIndexTimestamp="633489967300000000" />
+  <Assembly Name="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="7dbecee7-0641-4cf7-83eb-48587e3eb4ad" Timestamp="633529644480000000" XmlDocIndexTimestamp="633489967300000000" />
+  <Assembly Name="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="b918ee3b-9297-4926-821e-da4f2b107bb1" Timestamp="633529644480000000" XmlDocIndexTimestamp="633489967300000000" />
+  <Assembly Name="nunit.core, Version=2.4.7.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77" Image="c9020a19-def7-4520-a4ea-9d072838b4d2" Timestamp="633596937652694776" />
+  <Assembly Name="nunit.framework, Version=2.4.7.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77" Image="580896c9-6e68-4b74-9f3c-3f521d226094" Timestamp="633596937653318776" />
+  <Assembly Name="Rhino.Mocks, Version=3.5.0.2, Culture=neutral, PublicKeyToken=0b3305902db7183f" Image="1909a7ff-61e2-45c5-a1c3-568d0fe48ad9" Timestamp="633596937653630776" XmlDocIndexTimestamp="633596937652382776" />
+  <Assembly Name="JetBrains.Annotations, Version=4.1.933.3, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="d085e47f-3ddb-428a-bf49-db2b0b379f74" Timestamp="633559670920000000" XmlDocIndexTimestamp="633559670920000000" />
+</Assemblies>

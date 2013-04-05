@@ -1,0 +1,10 @@
+C:\_data\development\VS2008\_demos\Specification\src\Specification\obj\Debug\ResolveAssemblyReference.cache
+C:\_data\development\VS2008\_demos\Specification\src\Specification\bin\Debug\Specification.dll
+C:\_data\development\VS2008\_demos\Specification\src\Specification\bin\Debug\Specification.pdb
+C:\_data\development\VS2008\_demos\Specification\src\Specification\obj\Debug\Specification.dll
+C:\_data\development\VS2008\_demos\Specification\src\Specification\obj\Debug\Specification.pdb
+C:\_data\development\_demos\Specification\src\Specification\bin\Debug\Specification.dll
+C:\_data\development\_demos\Specification\src\Specification\bin\Debug\Specification.pdb
+C:\_data\development\_demos\Specification\src\Specification\obj\Debug\ResolveAssemblyReference.cache
+C:\_data\development\_demos\Specification\src\Specification\obj\Debug\Specification.dll
+C:\_data\development\_demos\Specification\src\Specification\obj\Debug\Specification.pdb

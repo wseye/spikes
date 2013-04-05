@@ -1,0 +1,11 @@
+C:\_data\development\_demos\Specification\src\Specification.UnitTests\bin\Release\Specification.UnitTests.dll
+C:\_data\development\_demos\Specification\src\Specification.UnitTests\bin\Release\Specification.UnitTests.pdb
+C:\_data\development\_demos\Specification\src\Specification.UnitTests\bin\Release\nunit.core.dll
+C:\_data\development\_demos\Specification\src\Specification.UnitTests\bin\Release\nunit.framework.dll
+C:\_data\development\_demos\Specification\src\Specification.UnitTests\bin\Release\Rhino.Mocks.dll
+C:\_data\development\_demos\Specification\src\Specification.UnitTests\bin\Release\Specification.dll
+C:\_data\development\_demos\Specification\src\Specification.UnitTests\bin\Release\Specification.pdb
+C:\_data\development\_demos\Specification\src\Specification.UnitTests\bin\Release\Rhino.Mocks.xml
+C:\_data\development\_demos\Specification\src\Specification.UnitTests\obj\Release\ResolveAssemblyReference.cache
+C:\_data\development\_demos\Specification\src\Specification.UnitTests\obj\Release\Specification.UnitTests.dll
+C:\_data\development\_demos\Specification\src\Specification.UnitTests\obj\Release\Specification.UnitTests.pdb

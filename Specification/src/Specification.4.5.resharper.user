@@ -1,0 +1,38 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5B19F843-F7CB-499C-B479-2F3D751D8A62/f:ProductOnStockSpecification.cs" caret="0" fromTop="5" />
+      <File id="5B19F843-F7CB-499C-B479-2F3D751D8A62/f:ProductPriceGreaterThanSpecification.cs" caret="0" fromTop="5" />
+      <File id="5B19F843-F7CB-499C-B479-2F3D751D8A62/f:ISpecification.cs" caret="0" fromTop="5" />
+      <File id="5B19F843-F7CB-499C-B479-2F3D751D8A62/f:AndSpecification.cs" caret="0" fromTop="5" />
+      <File id="5B19F843-F7CB-499C-B479-2F3D751D8A62/f:OrSpecification.cs" caret="664" fromTop="5" />
+      <File id="FC232872-57C8-4162-A13F-86845EC07EAF/f:ProductOnStockSpecificationTest.cs" caret="0" fromTop="5" />
+      <File id="FC232872-57C8-4162-A13F-86845EC07EAF/f:ProductPriceGreaterThanSpecificationTest.cs" caret="0" fromTop="5" />
+      <File id="d:Miscellaneous Files/f:build.xml/l:C!?_data?development?_demos?Specification?build.xml" caret="414" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="d:Miscellaneous Files/f:build.xml/l:C!?_data?development?_demos?Specification?build.xml" caret="899" fromTop="11" />
+      <File id="d:Miscellaneous Files/f:build.xml/l:C!?_data?development?_demos?Specification?build.xml" caret="899" fromTop="5" />
+      <File id="d:Miscellaneous Files/f:build.xml/l:C!?_data?development?_demos?Specification?build.xml" caret="1129" fromTop="18" />
+      <File id="d:Miscellaneous Files/f:build.xml/l:C!?_data?development?_demos?Specification?build.xml" caret="982" fromTop="24" />
+      <File id="d:Miscellaneous Files/f:build.xml/l:C!?_data?development?_demos?Specification?build.xml" caret="690" fromTop="17" />
+      <File id="d:Miscellaneous Files/f:build.xml/l:C!?_data?development?_demos?Specification?build.xml" caret="231" fromTop="3" />
+      <File id="d:Miscellaneous Files/f:build.xml/l:C!?_data?development?_demos?Specification?build.xml" caret="988" fromTop="24" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

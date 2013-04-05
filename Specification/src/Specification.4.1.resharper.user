@@ -1,0 +1,34 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5B19F843-F7CB-499C-B479-2F3D751D8A62/f:ProductOnStockSpecification.cs" caret="0" scrollPosition="0|0" />
+      <File id="5B19F843-F7CB-499C-B479-2F3D751D8A62/f:ProductPriceGreaterThanSpecification.cs" caret="0" scrollPosition="0|0" />
+      <File id="5B19F843-F7CB-499C-B479-2F3D751D8A62/f:ISpecification.cs" caret="0" scrollPosition="0|0" />
+      <File id="5B19F843-F7CB-499C-B479-2F3D751D8A62/f:AndSpecification.cs" caret="0" scrollPosition="0|0" />
+      <File id="5B19F843-F7CB-499C-B479-2F3D751D8A62/f:OrSpecification.cs" caret="664" scrollPosition="0|0" />
+      <File id="FC232872-57C8-4162-A13F-86845EC07EAF/f:ProductOnStockSpecificationTest.cs" caret="0" scrollPosition="0|0" />
+      <File id="FC232872-57C8-4162-A13F-86845EC07EAF/f:ProductPriceGreaterThanSpecificationTest.cs" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1026]C:\_data\development\VS2008\_demos\Specification\src\Specification.UnitTests\bin\Debug\Specification.UnitTests.dll</TopNode>
+  <SelectedNode>[0-1021]Specification.UnitTests.OrSpecificationExtensionTest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1026]C:\_data\development\VS2008\_demos\Specification\src\Specification.UnitTests\bin\Debug\Specification.UnitTests.dll" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1027]Specification" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1028]Specification.UnitTests" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1011]Specification.UnitTests.AndSpecificationExtensionTest">
+                  <Nodes>
+                    <Node UniqueName="[0-1012]Specification.UnitTests.AndSpecificationExtensionTest.ShouldBeStatisfiedWhenLeftAndRightIsSatisfied" />
+                    <Node UniqueName="[0-1015]Specification.UnitTests.AndSpecificationExtensionTest.ShouldNotBeStatisfiedWhenLeftAndRightIsNotSatisfied" />
+                    <Node UniqueName="[0-1013]Specification.UnitTests.AndSpecificationExtensionTest.ShouldNotBeStatisfiedWhenLeftIsNotSatisfied" />
+                    <Node UniqueName="[0-1014]Specification.UnitTests.AndSpecificationExtensionTest.ShouldNotBeStatisfiedWhenRightIsNotSatisfied" />
+                  </Nodes>
+                </Node>
+                <Node UniqueName="[0-1006]Specification.UnitTests.AndSpecificationTest">
+                  <Nodes>
+                    <Node UniqueName="[0-1007]Specification.UnitTests.AndSpecificationTest.ShouldBeStatisfiedWhenLeftAndRightIsSatisfied" />
+                    <Node UniqueName="[0-1010]Specification.UnitTests.AndSpecificationTest.ShouldNotBeStatisfiedWhenLeftAndRightIsNotSatisfied" />
+                    <Node UniqueName="[0-1008]Specification.UnitTests.AndSpecificationTest.ShouldNotBeStatisfiedWhenLeftIsNotSatisfied" />
+                    <Node UniqueName="[0-1009]Specification.UnitTests.AndSpecificationTest.ShouldNotBeStatisfiedWhenRightIsNotSatisfied" />
+                  </Nodes>
+                </Node>
+                <Node UniqueName="[0-1021]Specification.UnitTests.OrSpecificationExtensionTest" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1022]Specification.UnitTests.OrSpecificationExtensionTest.ShouldBeSatisfiedWhenLeftAndRightIsSatisfied" />
+                    <Node UniqueName="[0-1023]Specification.UnitTests.OrSpecificationExtensionTest.ShouldBeSatisfiedWhenOnlyLeftIsSatisfied" />
+                    <Node UniqueName="[0-1024]Specification.UnitTests.OrSpecificationExtensionTest.ShouldBeSatisfiedWhenOnlyRightIsSatisfied" />
+                    <Node UniqueName="[0-1025]Specification.UnitTests.OrSpecificationExtensionTest.ShouldNotBeStatisfiedWhenLeftAndRightIsNotSatisfied" />
+                  </Nodes>
+                </Node>
+                <Node UniqueName="[0-1016]Specification.UnitTests.OrSpecificationTest" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1017]Specification.UnitTests.OrSpecificationTest.ShouldBeSatisfiedWhenLeftAndRightIsSatisfied" />
+                    <Node UniqueName="[0-1018]Specification.UnitTests.OrSpecificationTest.ShouldBeSatisfiedWhenOnlyLeftIsSatisfied" />
+                    <Node UniqueName="[0-1019]Specification.UnitTests.OrSpecificationTest.ShouldBeSatisfiedWhenOnlyRightIsSatisfied" />
+                    <Node UniqueName="[0-1020]Specification.UnitTests.OrSpecificationTest.ShouldNotBeStatisfiedWhenLeftAndRightIsNotSatisfied" />
+                  </Nodes>
+                </Node>
+                <Node UniqueName="[0-1003]Specification.UnitTests.ProductOnStockSpecificationTest">
+                  <Nodes>
+                    <Node UniqueName="[0-1004]Specification.UnitTests.ProductOnStockSpecificationTest.ShouldBeSatisfiedIfProductHasStock" />
+                    <Node UniqueName="[0-1005]Specification.UnitTests.ProductOnStockSpecificationTest.ShouldNotBeSatisfiedIfProductHasNoStock" />
+                  </Nodes>
+                </Node>
+                <Node UniqueName="[0-1000]Specification.UnitTests.ProductPriceGreaterThanSpecificationTest">
+                  <Nodes>
+                    <Node UniqueName="[0-1001]Specification.UnitTests.ProductPriceGreaterThanSpecificationTest.ShouldBeSatisfiedWhenProductPriceIsGreater" />
+                    <Node UniqueName="[0-1002]Specification.UnitTests.ProductPriceGreaterThanSpecificationTest.ShouldNotBeSatisfiedWhenProductPriceIsLess" />
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>
