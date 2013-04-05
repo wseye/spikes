@@ -1,0 +1,8 @@
+D:\Development\git\servicebusTests\src\ReceiverConsole\ReceiverConsole\bin\Debug\ReceiverConsole.exe.config
+D:\Development\git\servicebusTests\src\ReceiverConsole\ReceiverConsole\bin\Debug\ReceiverConsole.exe
+D:\Development\git\servicebusTests\src\ReceiverConsole\ReceiverConsole\bin\Debug\ReceiverConsole.pdb
+D:\Development\git\servicebusTests\src\ReceiverConsole\ReceiverConsole\bin\Debug\Microsoft.ServiceBus.Preview.dll
+D:\Development\git\servicebusTests\src\ReceiverConsole\ReceiverConsole\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Development\git\servicebusTests\src\ReceiverConsole\ReceiverConsole\obj\Debug\ReceiverConsole.csprojResolveAssemblyReference.cache
+D:\Development\git\servicebusTests\src\ReceiverConsole\ReceiverConsole\obj\Debug\ReceiverConsole.exe
+D:\Development\git\servicebusTests\src\ReceiverConsole\ReceiverConsole\obj\Debug\ReceiverConsole.pdb
